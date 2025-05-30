@@ -13,7 +13,7 @@ const EditProfile = ({ formData, handleInputChange }) => {
         <div className="relative">
           <div className="w-20 h-20 rounded-full bg-gray-200 overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+              src="https://images.unsplash.com/photo-1526413232644-8a40f03cc03b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="Profile" 
               className="w-full h-full object-cover"
             />

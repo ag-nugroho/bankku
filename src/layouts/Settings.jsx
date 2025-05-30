@@ -10,9 +10,9 @@ const Settings = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const [formData, setFormData] = useState({
-    name: "Agung Nugroho",
-    username: "Agung Nugroho",
-    email: "agung@gmail.com",
+    name: "Charlene Reed ",
+    username: "Charlene Reed ",
+    email: "charlenereed@gmail.com",
     password: "••••••••••",
     dateOfBirth: "25 January 1990",
     presentAddress: "San Jose, California, USA",

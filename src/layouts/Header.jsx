@@ -138,7 +138,7 @@ const Header = ({ onMenuClick, pageTitle }) => {
               type="button"
             >
               <img 
-                src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                src="https://images.unsplash.com/photo-1526413232644-8a40f03cc03b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                 alt="Profile" 
                 className="w-8 h-8 rounded-full object-cover ring-2 ring-transparent hover:ring-blue-200 transition-all"
               />
@@ -150,8 +150,8 @@ const Header = ({ onMenuClick, pageTitle }) => {
                 : 'opacity-0 scale-95 -translate-y-2 pointer-events-none'
             }`}>
               <div className="px-4 py-3 border-b border-gray-100">
-                <div className="text-sm font-medium text-gray-900">Agung Nugroho</div>
-                <div className="text-sm text-gray-500">agung@example.com</div>
+                <div className="text-sm font-medium text-gray-900">Charlene Reed</div>
+                <div className="text-sm text-gray-500">charlenereed@gmail.com</div>
               </div>
               
               <ul className="py-1">
@@ -491,17 +491,13 @@ const Header = ({ onMenuClick, pageTitle }) => {
             {/* Profile */}
             <div className="relative">
               <div className="flex items-center space-x-3">
-                <div className="text-right">
-                  <p className="text-sm font-medium text-gray-900">Agung Nugroho</p>
-                  <p className="text-xs text-gray-500">Premium User</p>
-                </div>
                 <button
                   onClick={toggleDropdown}
                   className="flex items-center space-x-1 p-1 rounded-lg hover:bg-gray-50 transition-colors"
                   type="button"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                    src="https://images.unsplash.com/photo-1526413232644-8a40f03cc03b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                     alt="Profile" 
                     className="w-10 h-10 rounded-full object-cover ring-2 ring-transparent hover:ring-blue-200 transition-all"
                   />
@@ -515,8 +511,8 @@ const Header = ({ onMenuClick, pageTitle }) => {
                   : 'opacity-0 scale-95 -translate-y-2 pointer-events-none'
               }`}>
                 <div className="px-4 py-3 border-b border-gray-100">
-                  <div className="text-sm font-medium text-gray-900">Agung Nugroho</div>
-                  <div className="text-sm text-gray-500">agung@example.com</div>
+                  <div className="text-sm font-medium text-gray-900">Charlene Reed</div>
+                  <div className="text-sm text-gray-500">charlenereed@gmail.com </div>
                 </div>
                 
                 <ul className="py-1">
